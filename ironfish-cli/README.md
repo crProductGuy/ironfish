@@ -55,9 +55,9 @@ Run these commands in two different terminals:
 
 You should see messages in the second terminal indicating that the miner is running:
    - `Starting to mine with 8 threads`
-   - `Mining block 6261 on request 1264... \ 1105974 H/s`
+   - `Mining block 6261 on request 1264... \ 2015974 H/s`
       - The H/s number corresponds to the hash rate power of your machine with the given number of mining threads. 
-      - Performance reference: 8-core 3.8+ GHz AMD Ryzen 7 4700G with 8 threads gave the above 1.1 M H/s.
+      - Performance reference: 8-core 3.8+ GHz AMD Ryzen 7 4700G with 8 threads gave the above 2.0 M H/s.
 
 When a block is mined, you will see a status line in the node's terminal (the first terminal):
    - `Successfully mined block xxx (6543) has 1 transactions`
